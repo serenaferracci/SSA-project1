@@ -114,13 +114,26 @@ Using the flag \texttt{+bounds} the warnings are 12. The 3 additional warnings a
         So as to ensure that the two variables have at least a dimension greater or equal than 0.
 \end{itemize}
 
+
+\subsection*{File B}
+
+To the original file, a basic main function is added in order to compile and 
+execute the file. In this way it is possible to understand better what the 
+executable do and what are the vulnerabilities. The main function is only used to 
+open an existing text file, defined to text the executable, and to call the 
+original function, \texttt{func}, passing as parameter the file descriptor of the 
+file just opened. After the call, the main function close the text file and return.
+
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.6\linewidth]{screen-B}
-    \caption{Splint B.c}
+    \includegraphics[width=0.47\linewidth]{screen-B}\quad\includegraphics[width=0.47\linewidth]{B-bound}
+    \caption{Splint B.c with and without flags}
 \end{figure}
-There is not a main function so the code can't be compiled and executed.
 
+The purpose of the function \texttt{func} is to read on a file an integer, that 
+will be used to define the size of a buffer, and read 
+
+\subsection*{File C}
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.6\linewidth]{screen-C}

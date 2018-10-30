@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.23)  30 OCT 2018 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.23)  30 OCT 2018 21:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/Individual project 1-20181023/essay.tex"
-(/Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/Individual project 1-20181023/essay.tex
+**"/Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/SSA-project1/Individual project 1-20181023/essay.tex"
+(/Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/SSA-project1/Individual project 1-20181023/essay.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -740,70 +740,55 @@ Overfull \hbox (4.78871pt too wide) in paragraph at lines 112--115
 []\OT1/cmtt/m/n/10 Possible out-of-bounds read: *str2 \OT1/cmr/m/n/10 and \OT1/cmtt/m/n/10 Possible out-of-bounds store: *str1++\OT1/cmr/m/n/10 .
  []
 
-<screen-B.png, id=18, 1117.17375pt x 650.43pt>
+[2] <screen-B.png, id=24, 1117.17375pt x 650.43pt>
 File: screen-B.png Graphic file (type png)
  <use screen-B.png>
-Package pdftex.def Info: screen-B.png used on input line 119.
-(pdftex.def)             Requested size: 256.07741pt x 149.08958pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<screen-C.png, id=19, 1171.37625pt x 650.43pt>
+Package pdftex.def Info: screen-B.png used on input line 129.
+(pdftex.def)             Requested size: 200.59245pt x 116.78453pt.
+ <B-bound.png, id=25, 931.48pt x 495.8525pt>
+File: B-bound.png Graphic file (type png)
+ <use B-bound.png>
+Package pdftex.def Info: B-bound.png used on input line 129.
+(pdftex.def)             Requested size: 200.59245pt x 106.78023pt.
+ <screen-C.png, id=26, 1171.37625pt x 650.43pt>
 File: screen-C.png Graphic file (type png)
  <use screen-C.png>
-Package pdftex.def Info: screen-C.png used on input line 126.
+Package pdftex.def Info: screen-C.png used on input line 139.
 (pdftex.def)             Requested size: 256.07741pt x 142.19188pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[2] <A-f.png, id=26, 1257.69875pt x 442.65375pt>
+ [3 <./screen-B.png> <./B-bound.png> <./screen-C.png>] <A-f.png, id=33, 1257.69875pt x 442.65375pt>
 File: A-f.png Graphic file (type png)
  <use A-f.png>
-Package pdftex.def Info: A-f.png used on input line 167.
+Package pdftex.def Info: A-f.png used on input line 180.
 (pdftex.def)             Requested size: 204.85802pt x 72.09586pt.
- <min-A.png, id=27, 580.1675pt x 270.00874pt>
+ <min-A.png, id=34, 580.1675pt x 270.00874pt>
 File: min-A.png Graphic file (type png)
  <use min-A.png>
-Package pdftex.def Info: min-A.png used on input line 167.
+Package pdftex.def Info: min-A.png used on input line 180.
 (pdftex.def)             Requested size: 204.85802pt x 95.34082pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<B-f.png, id=28, 1223.57124pt x 653.44125pt>
+ <B-f.png, id=35, 1223.57124pt x 653.44125pt>
 File: B-f.png Graphic file (type png)
  <use B-f.png>
-Package pdftex.def Info: B-f.png used on input line 179.
+Package pdftex.def Info: B-f.png used on input line 192.
 (pdftex.def)             Requested size: 256.07741pt x 136.74811pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<C-f.png, id=29, 1223.57124pt x 648.4225pt>
+ <C-f.png, id=36, 1223.57124pt x 648.4225pt>
 File: C-f.png Graphic file (type png)
  <use C-f.png>
-Package pdftex.def Info: C-f.png used on input line 185.
+Package pdftex.def Info: C-f.png used on input line 198.
 (pdftex.def)             Requested size: 256.07741pt x 135.69781pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./screen-B.png> <./screen-C.png>] [4 <./A-f.png> <./min-A.png> <./B-f.png> <./C-f.png>] (./essay.aux) ) 
+ [4 <./A-f.png> <./min-A.png> <./B-f.png> <./C-f.png>] (./essay.aux) ) 
 Here is how much of TeX's memory you used:
- 22715 strings out of 492995
- 582135 string characters out of 6132703
- 775345 words of memory out of 5000000
- 25888 multiletter control sequences out of 15000+600000
+ 22720 strings out of 492995
+ 582245 string characters out of 6132703
+ 774345 words of memory out of 5000000
+ 25892 multiletter control sequences out of 15000+600000
  8063 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,96p,852b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,6n,96p,864b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on essay.pdf (4 pages, 796796 bytes).
+Output written on essay.pdf (4 pages, 869788 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

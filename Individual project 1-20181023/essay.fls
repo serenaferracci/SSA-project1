@@ -1,8 +1,8 @@
-PWD /Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/Individual project 1-20181023
+PWD /Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/SSA-project1/Individual project 1-20181023
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/Individual project 1-20181023/essay.tex
+INPUT /Users/serenaferracci/Documents/Università/Magistrale/II anno/Security in Software Applications/SSA-project1/Individual project 1-20181023/essay.tex
 OUTPUT essay.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -242,6 +242,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT screen-B.png
 INPUT ./screen-B.png
 INPUT ./screen-B.png
+INPUT B-bound.png
+INPUT ./B-bound.png
+INPUT ./B-bound.png
 INPUT screen-C.png
 INPUT ./screen-C.png
 INPUT ./screen-C.png
